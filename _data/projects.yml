@@ -1,9 +1,49 @@
-# Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: 써주세요 대출 서비스 개발
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    써주세요 모바일 어플리케이션의 API 개발과 클라우드 환경 운영
+  description: |
+    - <mark>Java 8</mark>, <mark>Spring Boot 2</mark>, <mark>JPA</mark>를 이용해 API 서버 개발
+    - OAuth2와 JWT를 이용한 인증, 인가 시스템 개발
+    - 메세지 큐를 이용한 알림(푸시, SMS, 메일) 발송 시스템 개발
+    - AWS를 이용해 서비스 운영
+- layout: top-middle
+  name: 진단서, 처방전 위변조방지 Dapp
+  quote: >
+    제 5회 SW융합 해커톤 대회 지정과제 2. 우정서비스(물류, 금융) 혁신을 위한 블록체인 융합서비스 개발
+  description: |
+    - 무박3일 해커톤 기간 동안 Dapp 개발
+    - 문서 위변조 방지에 대한 관심이 높아 좋은 성과를 낼 수 있었습니다.
+    - <mark>ethereum</mark>, <mark>web3</mark>, <mark>MetaMask</mark>, <mark>IPFS</mark>
+- layout: top-middle
+  name: 공공 데이터(부산도시철도 이용 현황 데이터) 활용 데이터 시각화
+  quote: >
+    제 2회 부산 ICT 융합 해카톤
+  description: |
+    - 공공데이터 전처리, ELK를 통한 시각화
+    - 사회적으로 데이터를 이용해 좋은 성과를 기대할 수 있는 분야로 좋은 성과를 낼 수 있었습니다.
+    - <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>, <mark>Node.js</mark>
+- layout: top-middle
+  name: 2018 한이음 ICT 멘토링 프로젝트
+  quote: >
+    Ethereum, Tezos 기반의 Dapp(설문조사 생성과 참여를 통한 보상) 개발 프로젝트
+  description: |
+    - <mark>ethereum</mark>, <mark>tezos</mark> smart contract 개발과 웹 페이지 개발 담당
+    - <mark>solidity</mark>, <mark>liquidity</mark>, <mark>react.js</mark>
+- layout: top-middle
+  name: 2017 한이음 ICT 멘토링 프로젝트
+  link: https://m.youtube.com/watch?v=7yHyro6fo5o
+  quote: >
+    공공 데이터를 활용해 상권 정보를 시각화, 분석한 프로젝트
+  description: |
+    - 웹 페이지 개발을 통한 시각화 담당
+    - 자바스크립트를 학습할 수 있는 기회
+    - <mark>node.js</mark>, <mark>express</mark>, <mark>jquery</mark>, <mark>ajax</mark>, <mark>d3.js</mark>
+- layout: top-middle
+  name: 2016 한이음 ICT 멘토링 프로젝트
+  link: https://www.youtube.com/watch?v=1JZlGO_wHu0
+  # github: sproogen/resume-theme
+  quote: >
+    거울과 디스플레이 패널을 활용해 정보를 제공하고 주변 IoT 가전을 제어하는 스마트 미러 프로젝트
+  # description: | # this will include new lines to allow paragraphs
+  #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
