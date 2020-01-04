@@ -8,6 +8,22 @@
     - 메세지 큐를 이용한 알림(푸시, SMS, 메일) 발송 시스템 개발
     - AWS를 이용해 서비스 운영
 - layout: top-middle
+  name: 진단서, 처방전 위변조방지 Dapp
+  quote: >
+    제 5회 SW융합 해커톤 대회 지정과제 2. 우정서비스(물류, 금융) 혁신을 위한 블록체인 융합서비스 개발
+  description: |
+    - 무박3일 해커톤 기간 동안 Dapp 개발
+    - 문서 위변조 방지에 대한 관심이 높아 좋은 성과를 낼 수 있었습니다.
+    - <mark>ethereum</mark>, <mark>web3</mark>, <mark>MetaMask</mark>, <mark>IPFS</mark>
+- layout: top-middle
+  name: 공공 데이터(부산도시철도 이용 현황 데이터) 활용 데이터 시각화
+  quote: >
+    제 2회 부산 ICT 융합 해카톤
+  description: |
+    - 공공데이터 전처리, ELK를 통한 시각화
+    - 사회적으로 데이터를 이용해 좋은 성과를 기대할 수 있는 분야로 좋은 성과를 낼 수 있었습니다.
+    - <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>, <mark>Node.js</mark>
+- layout: top-middle
   name: 2018 한이음 ICT 멘토링 프로젝트
   quote: >
     Ethereum, Tezos 기반의 Dapp(설문조사 생성과 참여를 통한 보상) 개발 프로젝트
